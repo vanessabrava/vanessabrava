@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello world! 👋😄
 
+- 🔭 I’m always working with Clean Architecture, DDD, Microservices, DevOps, Cloud , C# and .NET <3.
+
+- 👯 I like to collaborate with anyone who wants to learn to program.
+
+- 💬 Have any questions about programming, be sure to ask me!
+
+- 📫 How to reach me? My screen name is always @vanessabrava no matter which social media you use
+
+- ⚡ Fun fact: I'm a fan of Star Wars, The big bang theory, and I love movies!
 <!--
 **vanessabrava/vanessabrava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
