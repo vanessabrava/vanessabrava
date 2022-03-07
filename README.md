@@ -60,6 +60,6 @@
 [gmail]: mailto:vanessa.valle@gmail.com/
 [Mvp_Badge]: https://mvp.microsoft.com/en-us/PublicProfile/5004000
 [Facebook]: https://www.facebook.com/vanessa.trixie
-[Telegram]: https://t.me/AnkKumar
-[Dev]: https://dev.to/ankitkumar
+[Telegram]: https://t.me/vanessabrava
+[Dev]: https://dev.to/vanessabrava
 
